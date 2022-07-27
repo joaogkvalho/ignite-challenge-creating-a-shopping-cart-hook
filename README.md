@@ -1,4 +1,4 @@
-
+![ignite-challenge-creating-a-shopping-cart-hook](https://user-images.githubusercontent.com/50122135/181277202-0e0cc823-8848-4140-8dc2-0abf711e9e64.png)
 
 > Status: Finished ✔️
 
